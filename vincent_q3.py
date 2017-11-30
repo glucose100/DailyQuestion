@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+
+"""
+this is the question 3
+"""
 import sys
 import re
 import collections
